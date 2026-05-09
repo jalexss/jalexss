@@ -65,7 +65,7 @@ Desde principios de 2024 trabajo de forma remota para una empresa mexicana. Mi g
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalexss&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-> *Note: A significant portion of my daily work since early 2024 involves private repositories for my current employer.*
+> *Note: A significant portion of my daily work since early 2023 involves private repositories for my current employer.*
 
 ---
 
