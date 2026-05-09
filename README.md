@@ -26,7 +26,7 @@ Estou sempre em busca de novos desafios, ferramentas e oportunidades para cresce
 <br>
 I am a Full-Stack Developer with hands-on experience in complex system migrations (such as upgrading from Laravel 5.8 to 12 using Filament 3) and building secure RESTful APIs. 
 
-Since early 2024, I have been working remotely for a Mexican company. My main differentiator is my product focus: I am currently studying <b>Product Design</b> because I believe the best code is the one that delivers real value and an intuitive interface to the end-user. In my free time, I am a knowledge-driven enthusiast, developing my own turn-based <i>pixel art roguelike</i> game.
+Since early 2023, I have been working remotely for a Mexican company. My main differentiator is my product focus: I am currently studying <b>Product Design</b> because I believe the best code is the one that delivers real value and an intuitive interface to the end-user. In my free time, I am a knowledge-driven enthusiast, developing my own turn-based <i>pixel art roguelike</i> game.
 </details>
 
 <details>
@@ -34,7 +34,7 @@ Since early 2024, I have been working remotely for a Mexican company. My main di
 <br>
 Soy un Desarrollador Full-Stack con experiencia práctica en migraciones complejas de sistemas (como la actualización de Laravel 5.8 a 12 con Filament 3) y en la creación de APIs RESTful seguras. 
 
-Desde principios de 2024 trabajo de forma remota para una empresa mexicana. Mi gran diferenciador es el enfoque en el producto: actualmente estudio <b>Product Design</b> porque creo que el mejor código es aquel que entrega valor real y una interfaz intuitiva al usuario final. En mi tiempo libre, soy un entusiasta impulsado por el conocimiento, desarrollando mi propio juego <i>roguelike</i> por turnos en <i>pixel art</i>.
+Desde principios de 2023 trabajo de forma remota para una empresa mexicana. Mi gran diferenciador es el enfoque en el producto: actualmente estudio <b>Product Design</b> porque creo que el mejor código es aquel que entrega valor real y una interfaz intuitiva al usuario final. En mi tiempo libre, soy un entusiasta impulsado por el conocimiento, desarrollando mi propio juego <i>roguelike</i> por turnos en <i>pixel art</i>.
 </details>
 
 ---
