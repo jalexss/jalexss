@@ -3,9 +3,9 @@
 </div>
 
 # Hi there! 👋 I'm Jesús Alexander Soledad
-### 🚀 Full-Stack Web Developer | 🎨 Product Designer | 🕹️ Indie Game Dev
+### 🚀 Full-Stack Web Developer | ⚙️ Software Engineer
 
-I am a passionate Informatics Engineering student and software developer with **3+ years of professional experience** building scalable web applications. I strongly believe in taking ownership of my work and bridging the gap between solid engineering and excellent user experience. 
+I am a passionate Informatics Engineering student and software developer with **3+ years of professional experience** building scalable web applications. I strongly believe in taking ownership of my work, writing clean code, and engineering solutions that drive real business value. 
 
 Currently based in **Curitiba, PR, Brazil** 📍. 
 
@@ -16,7 +16,7 @@ Currently based in **Curitiba, PR, Brazil** 📍.
 <br>
 Sou um Desenvolvedor Full-Stack e estudante de Engenharia Informática com experiência prática em migrações complexas de sistemas (como a transição de projetos legados para Laravel 12 usando Filament 3 e Livewire) e na criação de APIs RESTful otimizadas. 
 
-Desde abril de 2023, trabalho remotamente para uma empresa mexicana, focando na redução drástica de tempos de carregamento e automação de processos. Meu grande diferencial é o foco em produto: aplico princípios de <b>Product Design</b> porque acredito que o melhor código é aquele que entrega valor real e uma interface intuitiva para o usuário final. Nas horas vagas, sou um entusiasta movido a conhecimento, desenvolvendo meu próprio jogo <i>roguelike deckbuilder</i> de turnos em <i>pixel art</i> utilizando a engine Godot. Além disso, estou sempre aprimorando meu português no dia a dia curitibano.
+Desde abril de 2023, trabalho remotamente para uma empresa mexicana, focando na redução drástica de tempos de carregamento e automação de processos. Meu foco principal é resolver problemas complexos de arquitetura do lado do servidor e otimizar fluxos de trabalho. Nas horas vagas, sou um entusiasta movido a conhecimento, sempre explorando novas tecnologias em infraestrutura e aprimorando meu português no dia a dia curitibano.
 </details>
 
 <details>
@@ -24,7 +24,7 @@ Desde abril de 2023, trabalho remotamente para uma empresa mexicana, focando na 
 <br>
 I am a Full-Stack Developer and Informatics Engineering student with hands-on experience in complex system migrations (such as upgrading legacy projects to Laravel 12 using Filament 3 and Livewire) and building secure, optimized RESTful APIs. 
 
-Since April 2023, I have been working remotely for a Mexican company, significantly reducing backend load times and automating business workflows. My main differentiator is my product focus: I apply <b>Product Design</b> principles because I believe the best code is the one that delivers real value and an intuitive interface to the end-user. In my free time, I am a knowledge-driven enthusiast, developing my own turn-based <i>pixel-art roguelike deckbuilder</i> game in the Godot engine.
+Since April 2023, I have been working remotely for a Mexican company, significantly reducing backend load times and automating business workflows. My main focus is solving complex server-side architectural problems and optimizing workflows. In my free time, I am a knowledge-driven enthusiast, constantly exploring new web technologies and infrastructure tools.
 </details>
 
 <details>
@@ -32,7 +32,7 @@ Since April 2023, I have been working remotely for a Mexican company, significan
 <br>
 Soy un Desarrollador Full-Stack y estudiante de Ingeniería en Informática con experiencia práctica en migraciones complejas de sistemas (como la actualización de proyectos legacy a Laravel 12 con Filament 3 y Livewire) y en la optimización de APIs RESTful. 
 
-Desde abril de 2023 trabajo de forma remota para una empresa mexicana, logrando reducir significativamente los tiempos de carga del backend y automatizando flujos de trabajo críticos. Mi gran diferenciador es el enfoque en el producto: aplico principios de <b>Product Design</b> porque creo que el mejor código es aquel que entrega valor real y una interfaz intuitiva al usuario final. En mi tiempo libre, soy un entusiasta impulsado por el conocimiento, desarrollando mi propio juego <i>roguelike deckbuilder</i> por turnos en <i>pixel art</i> utilizando el motor Godot.
+Desde abril de 2023 trabajo de forma remota para una empresa mexicana, logrando reducir significativamente los tiempos de carga del backend y automatizando flujos de trabajo críticos. Mi enfoque principal es resolver problemas arquitectónicos complejos y optimizar flujos de trabajo en el servidor. En mi tiempo libre, soy un entusiasta impulsado por el conocimiento, siempre explorando nuevas tecnologías para fortalecer mi perfil de ingeniería.
 </details>
 
 ---
@@ -43,7 +43,7 @@ Desde abril de 2023 trabajo de forma remota para una empresa mexicana, logrando 
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,vue,js,ts,jquery,html,css&perline=10" />
   <br>
   <br>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mongodb,mysql,git,github,gitlab,linux,godot&perline=9" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mongodb,mysql,git,github,gitlab,linux&perline=8" />
 </div>
 
 <br>
@@ -52,7 +52,7 @@ Desde abril de 2023 trabajo de forma remota para una empresa mexicana, logrando 
 * **Backend:** PHP 8.2, Laravel Ecosystem (Filament 3, Livewire), RESTful APIs, MySQL, MariaDB, MongoDB.
 * **Frontend:** Tailwind CSS, Vue.js, React.js (MERN), jQuery, Component-driven design.
 * **Infrastructure:** Server management (RunCloud, Cloudways), Cronjobs, Supervisor, SSH/SFTP.
-* **Mindset:** Product Design, System Modernization, Performance Optimization, Ownership.
+* **Mindset:** System Modernization, Performance Optimization, Workflow Automation, Ownership.
 
 ---
 
