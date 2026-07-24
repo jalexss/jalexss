@@ -59,7 +59,6 @@ Desde abril de 2023 trabajo de forma remota para una empresa mexicana, logrando 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jalexss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalexss&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
